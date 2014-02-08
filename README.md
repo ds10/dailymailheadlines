@@ -4,6 +4,8 @@ This is a group project from the London Python Dojo event at BAML (Feb 6th 2014)
 
 I've made a few changes, see git history for the original source from the day.
 
+Pull req's welcome.... :-)
+
 ## Usage
 
 Install requirements
